@@ -1,6 +1,6 @@
 **Auto Unsuspend Plugin for Moodle**
 
-The Auto Unsuspend plugin offers a convenient way for administrators and managers to manage student suspensions within the Moodle Learning Management System. With automatic unsuspension, scheduled suspension dates, and customizable email notifications, this plugin simplifies user management and ensures clear communication with students regarding their suspension status.
+The Auto Unsuspend plugin offers a convenient way for administrators and managers to manage student suspensions within the Moodle Learning Management System. With automatic unsuspension, scheduled unsuspension date, and customizable email notifications, this plugin simplifies user management and ensures clear communication with students regarding their suspension status.
 
 **Plugin Type:**
 Local
@@ -13,7 +13,7 @@ Local
 
 - **Email Notifications:** Auto Unsuspend sends automated email notifications to users upon suspension and unsuspension. The suspension email includes the reason for the suspension, ensuring that users are fully informed.
 
-- **Customizable Suspension Reasons:** Administrators can provide a reason for each suspension, which is automatically included in the suspension email sent to the user.
+- **Customizable Suspension Reasons:** Administrators or managers can provide a reason for each suspension, which is automatically included in the suspension email sent to the user.
 
 **Benefits:**
 
@@ -21,7 +21,7 @@ Local
 
 - **Clear Communication:** Automated emails keep users informed of their suspension status and the reason for their suspension, enhancing transparency and accountability.
 
-- **Improved Efficiency:** By automating the suspension and unsuspension processes, the plugin saves time for administrators and managers, allowing them to focus on more critical tasks.
+- **Improved Efficiency:** By automating the unsuspension processes, the plugin saves time for administrators and managers, allowing them to focus on more critical tasks.
 
 - **Enhanced User Experience:** Users receive timely and clear communication about their suspension status, reducing confusion and improving their overall experience with the platform.
 
