@@ -27,4 +27,4 @@ Local
 
 **Usage:**
 
-Integrating the Auto Unsuspend plugin into your Moodle instance is a seamless process. To obtain the code, feel free to [reach out to me on Upwork](https://www.upwork.com/freelancers/~0188ff047bab91ab3c). You can effortlessly set unsuspension date and suspension reasons through the user management interface, while the plugin manages automatic unsuspension and email notifications.
+Integrating the Auto Unsuspend plugin into your Moodle instance is a seamless process. To obtain the code, feel free to reach out to me on [Upwork](https://www.upwork.com/freelancers/~0188ff047bab91ab3c). You can effortlessly set unsuspension date and suspension reasons through the user management interface, while the plugin manages automatic unsuspension and email notifications.
